@@ -56,8 +56,8 @@ These insights can guide the mall's marketing team in developing targeted strate
 
 To reproduce or build upon this analysis:
 
-1. Clone this repository: `git clone https://github.com/yachi2605/Customer_analysis.git`
-2. Navigate to the project directory: `cd Customer_analysis`
+1. Clone this repository: `https://github.com/AryaPatel2110/Customer_Analysis.git`
+2. Navigate to the project directory: `cd Customer_Analysis`
 
 
 ## Dependencies
