@@ -79,5 +79,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize this README template according to your project's specifics. Make sure to replace placeholders like 
-`AryaPatel2110`, `Customer_Analysis`, and provide the correct links and versions for the dependencies.
+
